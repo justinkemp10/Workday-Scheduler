@@ -20,4 +20,4 @@ The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 
-Here is a link to the deployed application: [Workday Scheduler](https://justinkemp10.github.io/Quiz-Application/)
+Here is a link to the deployed application: [Workday Scheduler](https://justinkemp10.github.io/Workday-Scheduler/)
