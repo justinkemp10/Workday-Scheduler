@@ -2,7 +2,7 @@
 
 ## The Task
 
-By modifying start code, create a simple calendar application that allows users to save events for each hour of the day.
+By modifying starter code, create a simple calendar application that allows users to save events for each hour of the day.
 
 ## Acceptance Criteria
 
