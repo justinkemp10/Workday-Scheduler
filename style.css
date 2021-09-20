@@ -33,13 +33,7 @@ textarea {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
-}
-
-.hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
+  /* border-top: 1px solid white; */
 }
 
 .past {
@@ -55,6 +49,16 @@ textarea {
 .future {
   background-color: #77dd77;
   color: white;
+}
+
+.time-container {
+  border-top: solid 1px black;
+  justify-content: center;
+
+}
+
+#dayHours {
+  text-align: right;
 }
 
 .saveBtn {
