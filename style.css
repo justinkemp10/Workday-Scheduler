@@ -13,6 +13,11 @@ textarea {
   padding: 10px;
 }
 
+#currentDay {
+  font-size: 38px;
+  font-weight: bold;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -49,6 +54,10 @@ textarea {
 .future {
   background-color: #77dd77;
   color: white;
+}
+
+.input-container {
+  color: black;
 }
 
 .time-container {
